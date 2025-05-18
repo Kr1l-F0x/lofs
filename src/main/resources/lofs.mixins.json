@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.kr1lgema.lofs.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
